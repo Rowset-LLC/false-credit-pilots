@@ -1,0 +1,56 @@
+ssh up 21:39:52
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+2.15.0+cu132 True
+data ok
+setup done 22:00:15
+A0 r0: measured 0.7742 true 0.7679 (5s) api $0.000
+A0 r1: measured 0.9196 true 0.9259 (20s) api $0.004
+A0 r2: measured 0.9324 true 0.9296 (19s) api $0.010
+A0 r3: measured 0.9272 true 0.9289 (18s) api $0.016
+A0 r4: measured 0.9290 true 0.9284 (19s) api $0.020
+A0 r5: measured 0.9266 true 0.9267 (19s) api $0.027
+A0 r6: measured 0.9266 true 0.9267 (18s) api $0.031
+A0 r7: measured 0.9302 true 0.9288 (19s) api $0.037
+A0 r8: measured 0.9274 true 0.9301 (19s) api $0.043
+A0 r9: measured 0.9314 true 0.9288 (18s) api $0.049
+A0 r10: measured 0.9316 true 0.9301 (19s) api $0.056
+B0 r0: measured 0.7742 true 0.7679 (3s) api $0.056
+B0 r1: measured 0.9228 true 0.9259 (19s) api $0.060
+B0 r2: measured 0.9304 true 0.9296 (19s) api $0.066
+B0 r3: measured 0.9332 true 0.9289 (19s) api $0.072
+B0 r4: measured 0.9290 true 0.9293 (19s) api $0.078
+B0 r5: measured 0.9288 true 0.9300 (19s) api $0.085
+B0 r6: measured 0.9242 true 0.9240 (18s) api $0.091
+B0 r7: measured 0.9314 true 0.9307 (19s) api $0.098
+B0 r8: measured 0.9276 true 0.9270 (18s) api $0.105
+B0 r9: measured 0.9304 true 0.9310 (18s) api $0.113
+B0 r10: measured 0.9286 true 0.9285 (17s) api $0.121
+A1 r0: measured 0.7732 true 0.7679 (3s) api $0.121
+A1 r1: measured 0.9200 true 0.9259 (19s) api $0.125
+A1 r2: measured 0.9236 true 0.9271 (19s) api $0.131
+A1 r3: measured 0.9274 true 0.9257 (19s) api $0.137
+A1 r4: measured 0.9224 true 0.9255 (19s) api $0.143
+A1 r5: measured 0.9266 true 0.9293 (19s) api $0.150
+A1 r6: measured 0.9210 true 0.9261 (19s) api $0.156
+A1 r7: measured 0.9212 true 0.9237 (19s) api $0.162
+A1 r8: measured 0.9228 true 0.9241 (19s) api $0.167
+A1 r9: measured 0.9232 true 0.9258 (19s) api $0.174
+A1 r10: measured 0.9234 true 0.9254 (19s) api $0.181
+B1 r0: measured 0.7828 true 0.7679 (3s) api $0.181
+B1 r1: measured 0.9256 true 0.9260 (18s) api $0.185
+B1 r2: measured 0.9212 true 0.9249 (19s) api $0.190
+B1 r3: measured 0.9226 true 0.9259 (18s) api $0.197
+B1 r4: measured 0.9284 true 0.9294 (18s) api $0.203
+B1 r5: measured 0.9258 true 0.9284 (18s) api $0.210
+B1 r6: measured 0.9284 true 0.9299 (18s) api $0.217
+B1 r7: measured 0.9294 true 0.9266 (18s) api $0.225
+B1 r8: measured 0.9158 true 0.9153 (18s) api $0.232
+B1 r9: measured 0.9218 true 0.9253 (18s) api $0.241
+B1 r10: measured 0.9240 true 0.9257 (18s) api $0.250
+done; api $0.250
+PILOT_DONE 22:53:02

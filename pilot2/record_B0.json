@@ -1,0 +1,222 @@
+[
+ {
+  "round": 0,
+  "config": {
+   "epochs": 4,
+   "lr": 0.05,
+   "batch_size": 512,
+   "lr_schedule": "constant",
+   "label_smoothing": 0.0,
+   "flip_aug": false,
+   "translate_aug": 0,
+   "tta": "none",
+   "whiten_init": false,
+   "width": "small",
+   "weight_decay": 0.0,
+   "ema": false
+  },
+  "acc": 0.7742,
+  "true": 0.7678666666666666,
+  "secs": 3.5
+ },
+ {
+  "round": 1,
+  "config": {
+   "epochs": 10,
+   "lr": 0.2,
+   "batch_size": 512,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.05,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9228,
+  "true": 0.9259333333333334,
+  "secs": 18.6
+ },
+ {
+  "round": 2,
+  "config": {
+   "epochs": 10,
+   "lr": 0.2,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.05,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9304,
+  "true": 0.9296333333333333,
+  "secs": 18.5
+ },
+ {
+  "round": 3,
+  "config": {
+   "epochs": 10,
+   "lr": 0.3,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.05,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9332,
+  "true": 0.9289000000000001,
+  "secs": 18.5
+ },
+ {
+  "round": 4,
+  "config": {
+   "epochs": 10,
+   "lr": 0.4,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.05,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.929,
+  "true": 0.9293333333333335,
+  "secs": 18.8
+ },
+ {
+  "round": 5,
+  "config": {
+   "epochs": 10,
+   "lr": 0.3,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.1,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9288,
+  "true": 0.9299666666666667,
+  "secs": 18.5
+ },
+ {
+  "round": 6,
+  "config": {
+   "epochs": 10,
+   "lr": 0.3,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.05,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.001,
+   "ema": true
+  },
+  "acc": 0.9242,
+  "true": 0.9240333333333334,
+  "secs": 18.4
+ },
+ {
+  "round": 7,
+  "config": {
+   "epochs": 10,
+   "lr": 0.3,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.05,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0002,
+   "ema": true
+  },
+  "acc": 0.9314,
+  "true": 0.9306666666666666,
+  "secs": 18.6
+ },
+ {
+  "round": 8,
+  "config": {
+   "epochs": 10,
+   "lr": 0.3,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.0,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9276,
+  "true": 0.9269666666666666,
+  "secs": 18.4
+ },
+ {
+  "round": 9,
+  "config": {
+   "epochs": 10,
+   "lr": 0.3,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.05,
+   "flip_aug": true,
+   "translate_aug": 2,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9304,
+  "true": 0.9310333333333333,
+  "secs": 18.4
+ },
+ {
+  "round": 10,
+  "config": {
+   "epochs": 10,
+   "lr": 0.3,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.05,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": false
+  },
+  "acc": 0.9286,
+  "true": 0.9285,
+  "secs": 17.3
+ }
+]

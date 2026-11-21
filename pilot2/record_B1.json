@@ -1,0 +1,222 @@
+[
+ {
+  "round": 0,
+  "config": {
+   "epochs": 4,
+   "lr": 0.05,
+   "batch_size": 512,
+   "lr_schedule": "constant",
+   "label_smoothing": 0.0,
+   "flip_aug": false,
+   "translate_aug": 0,
+   "tta": "none",
+   "whiten_init": false,
+   "width": "small",
+   "weight_decay": 0.0,
+   "ema": false
+  },
+  "acc": 0.7828,
+  "true": 0.7678666666666666,
+  "secs": 3.5
+ },
+ {
+  "round": 1,
+  "config": {
+   "epochs": 10,
+   "lr": 0.2,
+   "batch_size": 512,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.1,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9256,
+  "true": 0.9259666666666666,
+  "secs": 18.5
+ },
+ {
+  "round": 2,
+  "config": {
+   "epochs": 10,
+   "lr": 0.2,
+   "batch_size": 512,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.1,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip_translate",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9212,
+  "true": 0.9249333333333333,
+  "secs": 18.6
+ },
+ {
+  "round": 3,
+  "config": {
+   "epochs": 10,
+   "lr": 0.3,
+   "batch_size": 512,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.1,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9226,
+  "true": 0.9258666666666667,
+  "secs": 18.5
+ },
+ {
+  "round": 4,
+  "config": {
+   "epochs": 10,
+   "lr": 0.2,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.1,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9284,
+  "true": 0.9293666666666667,
+  "secs": 18.3
+ },
+ {
+  "round": 5,
+  "config": {
+   "epochs": 10,
+   "lr": 0.15,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.1,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9258,
+  "true": 0.9284333333333333,
+  "secs": 18.4
+ },
+ {
+  "round": 6,
+  "config": {
+   "epochs": 10,
+   "lr": 0.2,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.05,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.0005,
+   "ema": true
+  },
+  "acc": 0.9284,
+  "true": 0.9299,
+  "secs": 18.4
+ },
+ {
+  "round": 7,
+  "config": {
+   "epochs": 10,
+   "lr": 0.2,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.1,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.001,
+   "ema": true
+  },
+  "acc": 0.9294,
+  "true": 0.9266333333333333,
+  "secs": 18.2
+ },
+ {
+  "round": 8,
+  "config": {
+   "epochs": 10,
+   "lr": 0.2,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.1,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.002,
+   "ema": true
+  },
+  "acc": 0.9158,
+  "true": 0.9152666666666667,
+  "secs": 18.4
+ },
+ {
+  "round": 9,
+  "config": {
+   "epochs": 10,
+   "lr": 0.25,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.1,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.001,
+   "ema": true
+  },
+  "acc": 0.9218,
+  "true": 0.9252666666666666,
+  "secs": 18.2
+ },
+ {
+  "round": 10,
+  "config": {
+   "epochs": 10,
+   "lr": 0.2,
+   "batch_size": 256,
+   "lr_schedule": "onecycle",
+   "label_smoothing": 0.15,
+   "flip_aug": true,
+   "translate_aug": 4,
+   "tta": "flip",
+   "whiten_init": true,
+   "width": "large",
+   "weight_decay": 0.001,
+   "ema": true
+  },
+  "acc": 0.924,
+  "true": 0.9257,
+  "secs": 18.4
+ }
+]

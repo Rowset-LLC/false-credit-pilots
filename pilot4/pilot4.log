@@ -1,0 +1,232 @@
+ssh up 02:28:43
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+apt free 02:28:48
+2.15.0+cu132 True
+data ok
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+setup done 02:50:35
+fable-A0 r0: measured 0.7722 true 0.7679 api $0.00
+fable-A0 r1: measured 0.7858 true 0.7679 api $0.02
+fable-A0 r2: measured 0.7896 true 0.7912 api $0.04
+fable-A0 r3: measured 0.8018 true 0.8161 api $0.07
+fable-A0 r4: measured 0.8266 true 0.8349 api $0.10
+fable-A0 r5: measured 0.7446 true 0.7629 api $0.13
+fable-A0 r6: measured 0.8464 true 0.8526 api $0.16
+fable-A0 r7: measured 0.8438 true 0.8506 api $0.19
+fable-A0 r8: measured 0.8318 true 0.8385 api $0.23
+fable-A0 r9: measured 0.8494 true 0.8663 api $0.26
+fable-A0 r10: measured 0.8502 true 0.8531 api $0.30
+  fable-A0 done; send-backs 0; per-model api {'cost': 0.3, 'fable': 0.3}
+fable-C0 r0: measured 0.7710 true 0.7679 api $0.30
+fable-C0 r1: measured 0.7752 true 0.7679 api $0.35
+fable-C0 r2: measured 0.7616 true 0.7679 api $0.41
+fable-C0 r3: measured 0.7906 true 0.8091 api $0.52
+fable-C0 r4: measured 0.7922 true 0.8091 api $0.59
+fable-C0 r5: measured 0.8086 true 0.8161 api $0.69
+fable-C0 r6: measured 0.8050 true 0.8161 api $0.80
+fable-C0 r7: measured 0.8216 true 0.8349 api $0.84
+fable-C0 r8: measured 0.8306 true 0.8349 api $0.90
+fable-C0 r9: measured 0.7288 true 0.7629 api $0.95
+fable-C0 r10: measured 0.8566 true 0.8526 api $0.99
+  fable-C0 done; send-backs 6; per-model api {'cost': 0.99, 'fable': 0.87, 'astra': 0.13}
+astra-A0 r0: measured 0.7578 true 0.7679 api $0.99
+astra-A0 r1: measured 0.7726 true 0.7679 api $1.01
+astra-A0 r2: measured 0.7892 true 0.7912 api $1.04
+astra-A0 r3: measured 0.8048 true 0.8161 api $1.06
+astra-A0 r4: measured 0.8226 true 0.8349 api $1.09
+astra-A0 r5: measured 0.8228 true 0.8349 api $1.11
+astra-A0 r6: measured 0.8144 true 0.8349 api $1.14
+astra-A0 r7: measured 0.6446 true 0.6650 api $1.17
+astra-A0 r8: measured 0.8332 true 0.8405 api $1.20
+astra-A0 r9: measured 0.8364 true 0.8445 api $1.23
+astra-A0 r10: measured 0.8668 true 0.8724 api $1.26
+  astra-A0 done; send-backs 0; per-model api {'cost': 1.26, 'fable': 0.87, 'astra': 0.39}
+astra-C0 r0: measured 0.7714 true 0.7679 api $1.26
+astra-C0 r1: measured 0.7630 true 0.7679 api $1.30
+astra-C0 r2: measured 0.7968 true 0.7912 api $1.32
+astra-C0 r3: measured 0.7850 true 0.7912 api $1.38
+astra-C0 r4: measured 0.7800 true 0.7679 api $1.44
+astra-C0 r5: measured 0.7524 true 0.7912 api $1.50
+astra-C0 r6: measured 0.7688 true 0.7679 api $1.57
+astra-C0 r7: measured 0.7622 true 0.7679 api $1.63
+astra-C0 r8: measured 0.7476 true 0.7560 api $1.71
+astra-C0 r9: measured 0.7620 true 0.7679 api $1.78
+astra-C0 r10: measured 0.7774 true 0.7932 api $1.85
+  astra-C0 done; send-backs 9; per-model api {'cost': 1.85, 'fable': 0.87, 'astra': 0.93, 'argon': 0.05}
+argon-A0 r0: measured 0.7708 true 0.7679 api $1.85
+argon-A0 r1: measured 0.7780 true 0.7679 api $1.86
+argon-A0 r2: measured 0.7984 true 0.7912 api $1.87
+argon-A0 r3: measured 0.7952 true 0.8161 api $1.88
+argon-A0 r4: measured 0.8138 true 0.8147 api $1.89
+argon-A0 r5: measured 0.7890 true 0.7888 api $1.90
+argon-A0 r6: measured 0.8044 true 0.8230 api $1.92
+argon-A0 r7: measured 0.8236 true 0.8319 api $1.93
+argon-A0 r8: measured 0.8266 true 0.8167 api $1.95
+argon-A0 r9: measured 0.8318 true 0.8020 api $1.96
+argon-A0 r10: measured 0.8424 true 0.8158 api $1.97
+  argon-A0 done; send-backs 0; per-model api {'cost': 1.97, 'fable': 0.87, 'astra': 0.93, 'argon': 0.18}
+argon-C0 r0: measured 0.7754 true 0.7679 api $1.97
+argon-C0 r1: measured 0.7786 true 0.7679 api $2.00
+argon-C0 r2: measured 0.7596 true 0.7912 api $2.05
+argon-C0 r3: measured 0.7954 true 0.8091 api $2.10
+argon-C0 r4: measured 0.8290 true 0.8324 api $2.14
+argon-C0 r5: measured 0.7398 true 0.7601 api $2.17
+argon-C0 r6: measured 0.8268 true 0.8324 api $2.24
+argon-C0 r7: measured 0.8432 true 0.8488 api $2.28
+argon-C0 r8: measured 0.8480 true 0.8488 api $2.35
+argon-C0 r9: measured 0.8326 true 0.8454 api $2.39
+argon-C0 r10: measured 0.8332 true 0.8354 api $2.43
+  argon-C0 done; send-backs 4; per-model api {'cost': 2.43, 'fable': 1.13, 'astra': 0.93, 'argon': 0.37}
+fable-A1 r0: measured 0.7704 true 0.7679 api $2.43
+fable-A1 r1: measured 0.7934 true 0.7679 api $2.45
+fable-A1 r2: measured 0.7810 true 0.7912 api $2.47
+fable-A1 r3: measured 0.8034 true 0.8091 api $2.50
+fable-A1 r4: measured 0.8074 true 0.8324 api $2.53
+fable-A1 r5: measured 0.6552 true 0.7437 api $2.55
+fable-A1 r6: measured 0.8342 true 0.8357 api $2.58
+fable-A1 r7: measured 0.8254 true 0.8404 api $2.62
+fable-A1 r8: measured 0.8242 true 0.8298 api $2.65
+fable-A1 r9: measured 0.8322 true 0.8372 api $2.69
+fable-A1 r10: measured 0.8054 true 0.8157 api $2.72
+  fable-A1 done; send-backs 0; per-model api {'cost': 2.72, 'fable': 1.42, 'astra': 0.93, 'argon': 0.37}
+fable-C1 r0: measured 0.7792 true 0.7679 api $2.72
+fable-C1 r1: measured 0.7822 true 0.7679 api $2.77
+fable-C1 r2: measured 0.7658 true 0.7679 api $2.83
+fable-C1 r3: measured 0.7726 true 0.7912 api $2.96
+fable-C1 r4: measured 0.8030 true 0.8091 api $3.07
+fable-C1 r5: measured 0.8002 true 0.8091 api $3.15
+fable-C1 r6: measured 0.8210 true 0.8324 api $3.26
+fable-C1 r7: measured 0.8300 true 0.8324 api $3.38
+  fable error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+fable-C1 r8: measured 0.6958 true 0.7757 api $3.43
+fable-C1 r9: measured 0.8096 true 0.8172 api $3.54
+fable-C1 r10: measured 0.8252 true 0.8283 api $3.66
+  fable-C1 done; send-backs 9; per-model api {'cost': 3.66, 'fable': 2.2, 'astra': 1.09, 'argon': 0.37}
+astra-A1 r0: measured 0.7530 true 0.7679 api $3.66
+astra-A1 r1: measured 0.7778 true 0.7679 api $3.68
+astra-A1 r2: measured 0.7914 true 0.7912 api $3.69
+astra-A1 r3: measured 0.8040 true 0.8161 api $3.72
+astra-A1 r4: measured 0.8204 true 0.8349 api $3.74
+astra-A1 r5: measured 0.7458 true 0.7629 api $3.77
+astra-A1 r6: measured 0.8478 true 0.8526 api $3.79
+astra-A1 r7: measured 0.8526 true 0.8506 api $3.82
+astra-A1 r8: measured 0.8318 true 0.8385 api $3.85
+astra-A1 r9: measured 0.8808 true 0.8863 api $3.88
+astra-A1 r10: measured 0.8758 true 0.8771 api $3.91
+  astra-A1 done; send-backs 0; per-model api {'cost': 3.91, 'fable': 2.2, 'astra': 1.34, 'argon': 0.37}
+astra-C1 r0: measured 0.7616 true 0.7679 api $3.91
+astra-C1 r1: measured 0.7908 true 0.7679 api $3.95
+astra-C1 r2: measured 0.7778 true 0.7679 api $4.00
+astra-C1 r3: measured 0.7766 true 0.7679 api $4.05
+astra-C1 r4: measured 0.7602 true 0.7679 api $4.11
+astra-C1 r5: measured 0.7836 true 0.7679 api $4.18
+astra-C1 r6: measured 0.7694 true 0.7679 api $4.25
+astra-C1 r7: measured 0.7796 true 0.7912 api $4.32
+astra-C1 r8: measured 0.6130 true 0.5876 api $4.40
+astra-C1 r9: measured 0.5270 true 0.5608 api $4.47
+astra-C1 r10: measured 0.7444 true 0.7744 api $4.54
+  astra-C1 done; send-backs 10; per-model api {'cost': 4.54, 'fable': 2.2, 'astra': 1.92, 'argon': 0.43}
+argon-A1 r0: measured 0.7694 true 0.7679 api $4.54
+argon-A1 r1: measured 0.7732 true 0.7679 api $4.55
+argon-A1 r2: measured 0.7818 true 0.7912 api $4.56
+argon-A1 r3: measured 0.8056 true 0.8161 api $4.57
+argon-A1 r4: measured 0.7830 true 0.8349 api $4.58
+argon-A1 r5: measured 0.6914 true 0.7367 api $4.60
+argon-A1 r6: measured 0.8346 true 0.8378 api $4.61
+argon-A1 r7: measured 0.8254 true 0.8341 api $4.63
+argon-A1 r8: measured 0.8100 true 0.8214 api $4.64
+argon-A1 r9: measured 0.8312 true 0.8103 api $4.65
+argon-A1 r10: measured 0.8146 true 0.8456 api $4.67
+  argon-A1 done; send-backs 0; per-model api {'cost': 4.67, 'fable': 2.2, 'astra': 1.92, 'argon': 0.56}
+argon-C1 r0: measured 0.7840 true 0.7679 api $4.67
+argon-C1 r1: measured 0.7720 true 0.7679 api $4.69
+argon-C1 r2: measured 0.7696 true 0.7912 api $4.72
+argon-C1 r3: measured 0.7990 true 0.8091 api $4.75
+argon-C1 r4: measured 0.7798 true 0.7679 api $4.80
+argon-C1 r5: measured 0.7988 true 0.8091 api $4.83
+argon-C1 r6: measured 0.8234 true 0.8324 api $4.86
+argon-C1 r7: measured 0.7380 true 0.7601 api $4.90
+argon-C1 r8: measured 0.8478 true 0.8488 api $4.94
+argon-C1 r9: measured 0.8392 true 0.8454 api $4.98
+argon-C1 r10: measured 0.8300 true 0.8354 api $5.02
+  argon-C1 done; send-backs 1; per-model api {'cost': 5.02, 'fable': 2.41, 'astra': 1.92, 'argon': 0.69}
+fable-A2 r0: measured 0.7916 true 0.7679 api $5.02
+fable-A2 r1: measured 0.7804 true 0.7679 api $5.04
+fable-A2 r2: measured 0.7948 true 0.7912 api $5.06
+fable-A2 r3: measured 0.8046 true 0.8161 api $5.09
+fable-A2 r4: measured 0.8182 true 0.8349 api $5.12
+fable-A2 r5: measured 0.7408 true 0.7629 api $5.15
+fable-A2 r6: measured 0.8498 true 0.8526 api $5.18
+fable-A2 r7: measured 0.8424 true 0.8506 api $5.22
+fable-A2 r8: measured 0.8358 true 0.8385 api $5.25
+fable-A2 r9: measured 0.8650 true 0.8531 api $5.28
+fable-A2 r10: measured 0.8698 true 0.8663 api $5.32
+  fable-A2 done; send-backs 0; per-model api {'cost': 5.32, 'fable': 2.71, 'astra': 1.92, 'argon': 0.69}
+fable-C2 r0: measured 0.7666 true 0.7679 api $5.32
+fable-C2 r1: measured 0.7710 true 0.7679 api $5.37
+fable-C2 r2: measured 0.7792 true 0.7912 api $5.43
+fable-C2 r3: measured 0.7816 true 0.7912 api $5.51
+fable-C2 r4: measured 0.7758 true 0.7912 api $5.62
+fable-C2 r5: measured 0.7800 true 0.7679 api $5.73
+fable-C2 r6: measured 0.7880 true 0.8161 api $5.86
+fable-C2 r7: measured 0.8076 true 0.8161 api $5.96
+fable-C2 r8: measured 0.8304 true 0.8349 api $6.08
+fable-C2 r9: measured 0.8324 true 0.8349 api $6.21
+fable-C2 r10: measured 0.7510 true 0.7629 api $6.29
+  fable-C2 done; send-backs 10; per-model api {'cost': 6.29, 'fable': 3.51, 'astra': 2.08, 'argon': 0.69}
+astra-A2 r0: measured 0.7640 true 0.7679 api $6.29
+astra-A2 r1: measured 0.7684 true 0.7679 api $6.31
+astra-A2 r2: measured 0.7834 true 0.7912 api $6.34
+astra-A2 r3: measured 0.7832 true 0.8161 api $6.36
+astra-A2 r4: measured 0.7970 true 0.8147 api $6.39
+astra-A2 r5: measured 0.8240 true 0.8230 api $6.41
+astra-A2 r6: measured 0.8418 true 0.8493 api $6.44
+astra-A2 r7: measured 0.8822 true 0.8873 api $6.47
+astra-A2 r8: measured 0.8956 true 0.8944 api $6.50
+astra-A2 r9: measured 0.8998 true 0.8972 api $6.53
+astra-A2 r10: measured 0.8946 true 0.8973 api $6.56
+  astra-A2 done; send-backs 0; per-model api {'cost': 6.56, 'fable': 3.51, 'astra': 2.36, 'argon': 0.69}
+astra-C2 r0: measured 0.7718 true 0.7679 api $6.56
+astra-C2 r1: measured 0.7870 true 0.7679 api $6.60
+astra-C2 r2: measured 0.7768 true 0.7679 api $6.65
+astra-C2 r3: measured 0.7768 true 0.7679 api $6.71
+astra-C2 r4: measured 0.7708 true 0.7679 api $6.78
+astra-C2 r5: measured 0.7854 true 0.7679 api $6.85
+astra-C2 r6: measured 0.7820 true 0.7679 api $6.91
+astra-C2 r7: measured 0.7776 true 0.7679 api $6.99
+astra-C2 r8: measured 0.7798 true 0.7679 api $7.06
+astra-C2 r9: measured 0.7760 true 0.7679 api $7.14
+astra-C2 r10: measured 0.7694 true 0.7679 api $7.21
+  astra-C2 done; send-backs 10; per-model api {'cost': 7.21, 'fable': 3.51, 'astra': 2.94, 'argon': 0.75}
+argon-A2 r0: measured 0.7524 true 0.7679 api $7.21
+argon-A2 r1: measured 0.7488 true 0.7679 api $7.22
+argon-A2 r2: measured 0.7868 true 0.7912 api $7.23
+argon-A2 r3: measured 0.8048 true 0.8161 api $7.24
+argon-A2 r4: measured 0.8336 true 0.8349 api $7.25
+argon-A2 r5: measured 0.7614 true 0.7629 api $7.26
+argon-A2 r6: measured 0.8536 true 0.8526 api $7.28
+argon-A2 r7: measured 0.8518 true 0.8506 api $7.29
+argon-A2 r8: measured 0.8358 true 0.8385 api $7.30
+argon-A2 r9: measured 0.8548 true 0.8531 api $7.32
+argon-A2 r10: measured 0.8644 true 0.8663 api $7.33
+  argon-A2 done; send-backs 0; per-model api {'cost': 7.33, 'fable': 3.51, 'astra': 2.94, 'argon': 0.88}
+argon-C2 r0: measured 0.7642 true 0.7679 api $7.33
+argon-C2 r1: measured 0.7722 true 0.7679 api $7.35
+argon-C2 r2: measured 0.7768 true 0.7679 api $7.40
+argon-C2 r3: measured 0.7740 true 0.7912 api $7.43
+argon-C2 r4: measured 0.7932 true 0.8091 api $7.46
+argon-C2 r5: measured 0.8024 true 0.8091 api $7.52
+argon-C2 r6: measured 0.8190 true 0.8324 api $7.56
+argon-C2 r7: measured 0.8218 true 0.8324 api $7.62
+argon-C2 r8: measured 0.7230 true 0.7601 api $7.67
+argon-C2 r9: measured 0.8426 true 0.8488 api $7.73
+argon-C2 r10: measured 0.8378 true 0.8488 api $7.80
+  argon-C2 done; send-backs 5; per-model api {'cost': 7.8, 'fable': 3.78, 'astra': 2.94, 'argon': 1.08}
+done; api $7.80
+PILOT_DONE 04:19:55

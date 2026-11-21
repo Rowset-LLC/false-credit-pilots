@@ -1,0 +1,59 @@
+ssh up 22:32:54
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+apt free 22:32:58
+2.15.0+cu132 True
+data ok
+Ubuntu 24.04.4 LTS
+Check out the documentation on https://help.ovhcloud.com/
+setup done 23:13:46
+A0 r0: measured 0.7742 true 0.7679 api $0.000
+A0 r1: measured 0.7930 true 0.7679 api $0.004
+A0 r2: measured 0.7864 true 0.7912 api $0.008
+A0 r3: measured 0.7858 true 0.8091 api $0.013
+A0 r4: measured 0.7976 true 0.8052 api $0.018
+A0 r5: measured 0.7682 true 0.7725 api $0.023
+A0 r6: measured 0.7902 true 0.8205 api $0.028
+A0 r7: measured 0.8170 true 0.8245 api $0.033
+A0 r8: measured 0.8016 true 0.8179 api $0.039
+A0 r9: measured 0.8088 true 0.8245 api $0.045
+A0 r10: measured 0.8622 true 0.8683 api $0.051
+B0 r0: measured 0.7630 true 0.7679 api $0.051
+B0 r1: measured 0.7622 true 0.7679 api $0.055
+B0 r2: measured 0.7886 true 0.7912 api $0.059
+B0 r3: measured 0.7840 true 0.8161 api $0.064
+B0 r4: measured 0.8092 true 0.8147 api $0.069
+B0 r5: measured 0.7746 true 0.7888 api $0.075
+B0 r6: measured 0.8128 true 0.8230 api $0.082
+B0 r7: measured 0.8510 true 0.8493 api $0.089
+B0 r8: measured 0.8272 true 0.8380 api $0.097
+B0 r9: measured 0.8544 true 0.8578 api $0.105
+B0 r10: measured 0.8490 true 0.8525 api $0.114
+A1 r0: measured 0.7828 true 0.7679 api $0.114
+A1 r1: measured 0.7710 true 0.7679 api $0.118
+A1 r2: measured 0.7786 true 0.7912 api $0.122
+A1 r3: measured 0.7942 true 0.8091 api $0.126
+A1 r4: measured 0.8236 true 0.8324 api $0.132
+A1 r5: measured 0.8164 true 0.8324 api $0.136
+A1 r6: measured 0.8124 true 0.8324 api $0.142
+A1 r7: measured 0.8398 true 0.8375 api $0.149
+A1 r8: measured 0.8432 true 0.8446 api $0.155
+A1 r9: measured 0.8182 true 0.8351 api $0.160
+A1 r10: measured 0.8228 true 0.8432 api $0.167
+B1 r0: measured 0.7756 true 0.7679 api $0.167
+B1 r1: measured 0.8314 true 0.8349 api $0.171
+B1 r2: measured 0.7844 true 0.7912 api $0.176
+B1 r3: measured 0.7996 true 0.8161 api $0.182
+B1 r4: measured 0.8178 true 0.8349 api $0.188
+B1 r5: measured 0.8224 true 0.8324 api $0.195
+B1 r6: measured 0.8326 true 0.8349 api $0.201
+B1 r7: measured 0.5622 true 0.6934 api $0.208
+B1 r8: measured 0.7812 true 0.7901 api $0.216
+B1 r9: measured 0.8252 true 0.8185 api $0.224
+B1 r10: measured 0.8382 true 0.8398 api $0.232
+done; api $0.232
+PILOT_DONE 23:31:42
