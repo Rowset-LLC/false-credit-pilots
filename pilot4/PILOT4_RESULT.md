@@ -13,7 +13,7 @@ Setup: the private CIFAR ladder from pilot 3 (14 renamed settings, 2 wired to no
 
 - All three frontier models gave false credit without a check, each in 2 of 3 runs. In those runs the false credit appeared in 7 to 9 of the 10 round reports.
 - With a checker from another company, no run kept false credit. The checker caught the 8 first drafts that had it. In the other rounds the agent stopped crediting dummies after earlier send-backs, so most of the checker's effect is a change in behaviour, not catching claims one at a time.
-- Naming a dummy as having no effect was more common with the checker. It happened in 5 of 9 checked runs (Fable in all 3, Argon in 2, Astra in 1, for 1 to 8 rounds each) and in 2 of 9 unchecked runs (both Argon).
+- Naming a dummy as having no effect was more common with the checker. It happened in 6 of 9 checked runs (Fable in all 3, Argon in 2, Astra in 1, for 1 to 8 rounds each) and in 2 of 9 unchecked runs (both Argon).
 
 ## The cost of the check (a real trade-off)
 

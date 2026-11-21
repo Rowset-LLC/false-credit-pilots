@@ -15,7 +15,7 @@ These are pilots, not findings. Every cell has only 2 or 3 runs.
 | Pilot | Task | Researcher model(s) | What it showed | Cost |
 |---|---|---|---|---|
 | 1 | Tune a gradient-boosted model on noisy synthetic data (CPU) | GPT-6.1 Sol | Claimed gains were about 2x the true gains, and the gap grew over rounds | $0.27 |
-| 2 | Tune a small CIFAR-10 classifier with named settings (GPU) | GPT-6.1 Sol | The agent's first move matched a public speedrun recipe, so public tasks are recalled, not researched | ~$4.65 |
+| 2 | Tune a small CIFAR-10 classifier with named settings (GPU) | GPT-6.1 Sol | The agent's first move matched a public speedrun recipe, which suggests recall; later pilots renamed the settings | ~$4.65 |
 | 3 | Same trainer with 14 renamed settings, 2 wired to nothing | GPT-6.1 Sol | False credit to a dummy setting in 2 of 4 runs; no setting was ever named as doing nothing | ~$2.52 |
 | 4 | Same as pilot 3, three frontier models, with and without a checker | Claude Fable 5.2, GPT-6 Astra, Gemini 4 Argon | No check: false credit in **6 of 9** runs (2 of 3 for each model). Checker model from another company: **0 of 9**, but one model's progress stalled, and two checked runs claimed gains where the true gain was 0 | $7.80 API |
 
