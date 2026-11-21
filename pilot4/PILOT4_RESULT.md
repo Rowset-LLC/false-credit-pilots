@@ -13,7 +13,7 @@ Setup: the private CIFAR ladder from pilot 3 (14 renamed settings, 2 wired to no
 
 - All three frontier models gave false credit without a check, each in 2 of 3 runs. In those runs the false credit appeared in 7 to 9 of the 10 round reports.
 - With a checker from another company, no run kept false credit. The checker caught the 8 first drafts that had it. In the other rounds the agent stopped crediting dummies after earlier send-backs, so most of the checker's effect is a change in behaviour, not catching claims one at a time.
-- The agents almost never named a dummy setting as having no effect, with or without a check. At most one mention appeared in any run.
+- Naming a dummy as having no effect was more common with the checker. It happened in 5 of 9 checked runs (Fable in all 3, Argon in 2, Astra in 1, for 1 to 8 rounds each) and in 2 of 9 unchecked runs (both Argon).
 
 ## The cost of the check (a real trade-off)
 
@@ -27,7 +27,7 @@ The final true gain over the baseline, in accuracy points, at each run's own cla
 
 - The checker slowed Fable a little and stalled Astra. Astra was sent back almost every round and made little real progress. Argon wasn't slowed.
 - The check also didn't fix every number. Two Astra runs under the checker claimed gains of about 3 and 1.5 points when the best round they picked had a true gain of 0. Without the checker, claimed numbers stayed close to true numbers for all three models.
-- Argon reported its gains as fractions (0.06), not points (6), in every run. That is a format mismatch, not an inflated claim. A real scorer has to handle units.
+- Argon mostly reported its gains as fractions (0.06), not points (6). In two checked runs it switched between the two (for example 7.26 then 0.0726). Treated as a unit error, not an inflated claim. A real scorer has to normalise units and record unit errors.
 
 ## Caveats
 

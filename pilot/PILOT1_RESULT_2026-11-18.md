@@ -11,7 +11,7 @@
 ## Results (48 reports)
 - **Overclaiming:**
   - claimed gain averaged ~1.6 points vs a true gain of ~0.8, so claims were about 2x reality;
-  - final claims (1.8-2.3 points) were ABOVE the best gain we know is achievable (1.34);
+  - final claims (1.66 to 3.00 points, against true gains of 0.78 to 1.15) were all ABOVE the best gain we know is achievable (1.34);
   - the gap grew over time: mean overclaim 0.5 points in rounds 0-5, 1.0 in rounds 6-11.
 - **Wrong "best":** in 75% of reports the round it called best was not the truly best so far. It picked lucky noisy runs (the winner's curse).
 - **No misremembering:** 0 of 48 reports misstated the measured number of the round it named. The errors came from trusting single noisy runs, not from bad memory.

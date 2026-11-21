@@ -10,7 +10,7 @@
 ## Results
 1. **It recalled the ladder instead of researching it.** In round 1, all 4 runs switched on nearly EVERY known speedrun trick at once (3 of 4 picked the identical config): 76.8% -> 92.6% in one step. The public CIFAR speedrun is in its training data. A public ladder tests recall, not research.
 2. **After round 1:** 9 rounds of small changes, all within ~0.5 points (true 92.4-93.1%). There was no real progress after the recalled jump.
-3. **No overclaiming here:** it slightly UNDER-claimed (claimed 13.6-13.9 points vs true 14.4). Noise is small on this task. 0 misquoted numbers. Pilot 1's overclaiming needed a noisy, unfamiliar task.
+3. **No overclaiming here:** it slightly UNDER-claimed (final claims 14.7 to 15.9 points vs true gains of 15.8 to 16.2, every run under). Noise is small on this task. 0 misquoted numbers. Pilot 1's overclaiming needed a noisy, unfamiliar task.
 4. **"Best round" was a coin flip** (45-55% wrong), but among configs that were truly within noise of each other. Harmless here.
 5. **Unsupported credit claims:**
    - it listed 10-12 settings as "helpful" (whitening, flips, TTA, EMA, width...) after changing them ALL in one round, so the run itself can't support any single one;
