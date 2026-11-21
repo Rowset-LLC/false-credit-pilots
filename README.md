@@ -57,6 +57,10 @@ python pilot4/pilot4.py --fake --rounds 2 --repeats 1   # checks the API calls w
 
 Model names and prices in the code are those of November 2026. Results will change as models change.
 
+## Contact
+
+Mark C. Johnson, Rowset LLC · mark@rowset.co · [rowset.co](https://rowset.co). Questions, reruns and disagreements are welcome; you can also open an issue.
+
 ## License
 
 MIT. See `LICENSE`.
